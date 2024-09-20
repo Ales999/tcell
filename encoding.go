@@ -20,7 +20,7 @@ import (
 
 	"golang.org/x/text/encoding"
 
-	gencoding "github.com/gdamore/encoding"
+	gencoding "github.com/ales999/encoding"
 )
 
 var encodings map[string]encoding.Encoding

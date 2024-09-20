@@ -26,8 +26,8 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/gdamore/tcell/v2/encoding"
+	"github.com/ales999/tcell/v2"
+	"github.com/ales999/tcell/v2/encoding"
 
 	"github.com/mattn/go-runewidth"
 )

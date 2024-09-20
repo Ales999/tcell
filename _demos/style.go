@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/gdamore/tcell/v2/encoding"
+	"github.com/ales999/tcell/v2"
+	"github.com/ales999/tcell/v2/encoding"
 	runewidth "github.com/mattn/go-runewidth"
 )
 
@@ -183,7 +183,7 @@ func main() {
 	puts(s, style, 2, row, "Pink Curly Underline")
 	row++
 
-	style = plain.Url("http://github.com/gdamore/tcell")
+	style = plain.Url("http://github.com/ales999/tcell")
 	puts(s, style, 2, row, "HyperLink")
 	row++
 

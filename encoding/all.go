@@ -20,8 +20,8 @@
 package encoding
 
 import (
-	"github.com/gdamore/encoding"
-	"github.com/gdamore/tcell/v2"
+	"github.com/ales999/encoding"
+	"github.com/ales999/tcell/v2"
 
 	"golang.org/x/text/encoding/charmap"
 	"golang.org/x/text/encoding/japanese"
