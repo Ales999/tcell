@@ -5,7 +5,7 @@
 _Tcell_ is a _Go_ package that provides a cell based view for text terminals, like _XTerm_.
 It was inspired by _termbox_, but includes many additional improvements.
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 [![Linux](https://img.shields.io/github/actions/workflow/status/gdamore/tcell/linux.yml?branch=main&logoColor=grey&logo=linux&label=)](https://github.com/gdamore/tcell/actions/workflows/linux.yml)
 [![Windows](https://img.shields.io/github/actions/workflow/status/gdamore/tcell/windows.yml?branch=main&logoColor=grey&logo=windows&label=)](https://github.com/gdamore/tcell/actions/workflows/windows.yml)
 [![Apache License](https://img.shields.io/github/license/gdamore/tcell.svg?logoColor=silver&logo=opensourceinitiative&color=blue&label=)](https://github.com/gdamore/tcell/blob/master/LICENSE)
@@ -14,7 +14,7 @@ It was inspired by _termbox_, but includes many additional improvements.
 [![Coverage](https://img.shields.io/codecov/c/github/gdamore/tcell?logoColor=grey&logo=codecov&label=)](https://codecov.io/gh/gdamore/tcell)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gdamore/tcell/v2)](https://goreportcard.com/report/github.com/gdamore/tcell/v2)
 
-Please see [here](UKRAINE.md) for an important message for the people of Russia.
+
 
 NOTE: This is version 2 of _Tcell_. There are breaking changes relative to version 1.
 Version 1.x remains available using the import `github.com/gdamore/tcell`.
