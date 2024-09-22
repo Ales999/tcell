@@ -18,7 +18,7 @@ import (
 	"os"
 	"reflect"
 
-	runewidth "github.com/mattn/go-runewidth"
+	runewidth "github.com/ales999/go-runewidth"
 )
 
 type cell struct {

@@ -15,8 +15,7 @@
 package views
 
 import (
-	"github.com/mattn/go-runewidth"
-
+	"github.com/ales999/go-runewidth"
 	"github.com/ales999/tcell/v2"
 )
 

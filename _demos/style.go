@@ -25,7 +25,7 @@ import (
 
 	"github.com/ales999/tcell/v2"
 	"github.com/ales999/tcell/v2/encoding"
-	runewidth "github.com/mattn/go-runewidth"
+	runewidth "github.com/ales999/go-runewidth"
 )
 
 var row = 0

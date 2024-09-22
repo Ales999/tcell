@@ -30,7 +30,7 @@ import (
 	"github.com/ales999/tcell/v2"
 	"github.com/ales999/tcell/v2/encoding"
 
-	"github.com/mattn/go-runewidth"
+	"github.com/ales999/go-runewidth"
 	"github.com/mattn/go-sixel"
 )
 
